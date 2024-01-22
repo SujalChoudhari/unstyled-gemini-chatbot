@@ -1,0 +1,27 @@
+{
+  "name": "@sujalchoudhari/unstyled-gemini-chatbot",
+  "version": "1.0.0",
+  "description": "A simple and unstyled React chatbot component using Google Generative AI.",
+  "main": "src/index.jsx",
+  "repository": {
+    "url": "git+https://github.com/SujalChoudhari/unstyled-gemini-chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "react",
+    "google-generative-ai"
+  ],
+  "scripts": {
+    
+  },
+  "author": "Sujal Choudhari",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
+  }
+}
